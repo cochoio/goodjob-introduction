@@ -4,9 +4,9 @@
 
 ## 앱 다운로드
 
-<a href='https://play.google.com/store/apps/details?id=io.cocho.goodjob.goodjobapp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' width="200" src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'/></a>
-
-<a href='https://apps.apple.com/kr/app/goodjob-%EC%B0%B8%EC%9E%98%ED%96%88%EC%96%B4%EC%9A%94-%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EC%B9%AD%EC%B0%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80/id6446052088'><img alt='다운로드하기 Google Play' width="200" src='./images/app_store_download.svg'/></a>
+|                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                   |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href='https://play.google.com/store/apps/details?id=io.cocho.goodjob.goodjobapp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' width="200" src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'/></a> | <a href='https://apps.apple.com/kr/app/goodjob-%EC%B0%B8%EC%9E%98%ED%96%88%EC%96%B4%EC%9A%94-%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EC%B9%AD%EC%B0%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80/id6446052088'><img alt='다운로드하기 Google Play' width="200" src='./images/app_store_download.svg'/></a> |
 
 스티커를 활용한 칭찬 소셜 챌린지 애플리케이션 굿잡!
 
@@ -34,8 +34,10 @@
 
 ### 앱에서 제공하는 이미지
 
-<img src="./images/image 15.png" width="300" />
-<img src="./images/image 16.png" width="300" />
-<img src="./images/image 17.png" width="300" />
-<img src="./images/image 18.png" width="300" />
-<img src="./images/image 19.png" width="300" />
+|                            |                            |
+| :------------------------: | :------------------------: |
+| ![](./images/image_15.png) | ![](./images/image_16.png) |
+
+|                            |                            |                            |
+| :------------------------: | :------------------------: | :------------------------: |
+| ![](./images/image_17.png) | ![](./images/image_18.png) | ![](./images/image_19.png) |
